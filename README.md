@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adam! <br/> <a href="https://www.linkedin.com/in/adam-wojciech-milian/">Senior Cybersecuruty Engineer, Application Security Engineer, ISO27001 Lead Auditor certified by CQI/IRCA</a></h1>
+<h1>Hi, I'm Adam! <br/> <a href="https://www.linkedin.com/in/adam-wojciech-milian/">Senior Security Engineer, Application Security Engineer, ISO27001 Lead Auditor certified by CQI/IRCA</a></h1>
 
 <h2> 🤳 Connect with me/Certifications/Work History:</h2>
 
