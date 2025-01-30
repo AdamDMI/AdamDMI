@@ -9,24 +9,30 @@
 
 - 🖥️⚔️🛡️☁️ Drives me crazy:
   * DevSecOps, SDLC, Business and Operational Processes Improvements 
-- 🔭 I’m currently working on:
+- 🔭🎯 I’m currently working on:
   * Cloud Security Architecture
     * SEAR Reviews
     * Application Security Assessments and Risk Evaluations
   * Secure Application Development Lifecycle
-    * Tools Evaluations
+    * SAST SCA Tools Evaluations
   * SDLC Integrations
     * Snyk
-    * WIZ & WIZ CODE
+    * WIZ CODE
   * Cybersecurity Projects: 
-    * SentinelOne
-    * Sumo Logic
-    * ReliaQuest GreyMatter
+    * SIEM SentinelOne
+    * SIEM Sumo Logic
+    * SIEM ReliaQuest GreyMatter
+    * KSPM WIZ
     * CyberArk Conjur & PAM
 - 🌱 I’m currently learning:
   * more and more Python (RealPython)
-- 👯 I’m looking to collaborate on:
-   * SDLC Tools Integrations
+
+- 👯 I’m looking to collaborate on only hard core projects like:
+   * SDLC Tools Integrations and Implementation from scratch
+   * SIEM Integrations and Implementation from scratch
+   * KSPM Integrations and Implementation from scratch
+   * any combination of above
+     
 - 💬 Ask me about:
   * Cybersecurity, Logistics/Supply Chain optimisation
 - 😄 Pronouns: He/him/his
